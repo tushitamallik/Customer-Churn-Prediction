@@ -22,8 +22,8 @@ Before starting this project, you should have:
 
 ## Project Structure
 
-data/: Contains sample datasets used for training and testing.
-notebooks/: Jupyter notebooks that walk through the project.
+* data/: Contains sample datasets used for training and testing.
+* notebooks/: Jupyter notebooks that walk through the project.
 
 ## Key Steps
 
